@@ -1,0 +1,12 @@
+{
+ "users": [
+  {
+   "user": "conbimbip",
+   "salt": "1f8ff1bf1bcd24cb2678ac632e80e68b",
+   "hash": "a77075d0771ba1d8fa4ba55e022c14842dd0e7147c079bd2cebee7a10330f321",
+   "iter": 600000,
+   "created": "2026-10-04 19:31"
+  }
+ ],
+ "updated": "2026-10-04 19:38:46"
+}
