@@ -6,9 +6,19 @@
    "hash": "a77075d0771ba1d8fa4ba55e022c14842dd0e7147c079bd2cebee7a10330f321",
    "iter": 600000,
    "created": "2026-10-04 19:31"
+  },
+  {
+   "user": "test1",
+   "salt": "3f94f8a77f64b4c98da878840863b6eb",
+   "hash": "88b426f42fb85e99dbdb6d0df773c131f9837b853fac8672b88fa8d8d7adeb2a",
+   "iter": 600000,
+   "created": "2026-10-13 18:33",
+   "expires": 1794483219,
+   "status": "active",
+   "max_accs": 2
   }
  ],
- "updated": "2026-10-13 17:46:32",
+ "updated": "2026-10-13 18:33:42",
  "contact": "Zalo: 0917.969.587",
  "registration_open": false
 }
