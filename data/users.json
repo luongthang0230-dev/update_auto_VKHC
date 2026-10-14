@@ -86,9 +86,19 @@
    "expires": 1794569259,
    "status": "active",
    "max_accs": 0
+  },
+  {
+   "user": "test9",
+   "salt": "b8ba3b25da40ab8fcccfb42f4983d84d",
+   "hash": "ef91ce60b676335636bcaeb63f3a124820b1a5e196f17daeaa452bf65d60fb73",
+   "iter": 600000,
+   "created": "2026-10-14 18:27",
+   "expires": 1794569277,
+   "status": "active",
+   "max_accs": 0
   }
  ],
- "updated": "2026-10-14 18:27:43",
+ "updated": "2026-10-14 18:27:58",
  "contact": "Zalo: 0917.969.587",
  "registration_open": true
 }
