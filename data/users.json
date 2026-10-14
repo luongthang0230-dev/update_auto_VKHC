@@ -49,66 +49,16 @@
   },
   {
    "user": "test5",
-   "salt": "b534ea2540c670e416488aa308e43da3",
-   "hash": "a19d68cb18c8f6e1cf9876912b0fd726cb023b3b57136004bdbe35676f5f3d8d",
+   "salt": "011848cb0dadadcc8c82c90500d916cf",
+   "hash": "0cd34b670644655796a4b16ba94df55c031fac4187f30953bfb120a1996cbb26",
    "iter": 600000,
-   "created": "2026-10-14 18:15",
-   "expires": 1794568635,
-   "status": "active",
-   "max_accs": 0
-  },
-  {
-   "user": "test6",
-   "salt": "7760ca9219cea471d74c7a53548e230f",
-   "hash": "ca35e22bf617ac79e66df743395cb970029c012325791f06892576bf3b08489b",
-   "iter": 600000,
-   "created": "2026-10-14 18:16",
-   "expires": 1794568638,
-   "status": "active",
-   "max_accs": 0
-  },
-  {
-   "user": "test7",
-   "salt": "3db4571b0aefcae8b8c8dba8b5006c94",
-   "hash": "3e3f02715ccedf855ed00286192ad5dc1001e25cc2e81858fd1fcf004326ead2",
-   "iter": 600000,
-   "created": "2026-10-14 18:16",
-   "expires": 1794568641,
-   "status": "active",
-   "max_accs": 0
-  },
-  {
-   "user": "test8",
-   "salt": "3ec4c99df7b030abca44cb6ed284b03a",
-   "hash": "d752ffe5b87becdcdbde73628452638403888a4452f5a75f28765f935a8273d4",
-   "iter": 600000,
-   "created": "2026-10-14 18:16",
-   "expires": 1794568592,
-   "status": "active",
-   "max_accs": 0
-  },
-  {
-   "user": "test9",
-   "salt": "06bba99254f648adae94547d8b5acd2b",
-   "hash": "18c4ae91c3b268b484e3f2f97f24a2e84f78fb5fd507c0c2e974c42cd9d22834",
-   "iter": 600000,
-   "created": "2026-10-14 18:16",
-   "expires": 1794568601,
-   "status": "active",
-   "max_accs": 0
-  },
-  {
-   "user": "test10",
-   "salt": "e4a5585e3af5f9dadc7bc3a76c212806",
-   "hash": "1e2e6552e2c245c8f73aa56b141b76f1d2784307175a055ec92d576b3ab673c0",
-   "iter": 600000,
-   "created": "2026-10-14 18:16",
-   "expires": 1794568608,
+   "created": "2026-10-14 18:27",
+   "expires": 1794569231,
    "status": "active",
    "max_accs": 0
   }
  ],
- "updated": "2026-10-14 18:25:41",
+ "updated": "2026-10-14 18:27:12",
  "contact": "Zalo: 0917.969.587",
  "registration_open": true
 }
